@@ -1,6 +1,8 @@
 # sql_project_1
 This very short project demonstrates the SQL skills I have for conducting relatively simple querying using a large dataset. This project was completed using the PostgreSQL flavor of SQL. 
 
+_Please note that since the notebook has been downloaded from the DataCamp platform, and it contains code, the 'Code' tab of the notebook.ipynb file does not contain the code I wrote, but rather the code for the notebook._
+
 # Documents in this repository
 
 In this repository, besides this README document, there are two files. One of them is the students.csv file which contains data relating to a mental health study conducted in Japanese universities, considering international and domestic students. 
